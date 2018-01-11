@@ -1,1 +1,7 @@
-{"APIKey": "GUoaNFC4qsugzQybG1ANj9yn", "SecretKey": "9MSgjGoMiMIPM6oFZEoQuklMwsjZdT9W", "access_token": "24.8498d1042476db2c92986877118208e3.2592000.1518248713.282335-10666774", "old_access_token": "1515656713.5475445", "smartisan_pro_roi": ["80", "370", "980", "550", "1300"]}
+{
+	"APIKey": "",
+	"SecretKey": "",
+	"access_token": "",
+	"old_access_token": "1515656713.5475445",
+	"smartisan_pro_roi": ["80", "370", "980", "550", "1300"]
+}
